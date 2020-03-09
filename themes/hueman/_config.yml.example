@@ -7,20 +7,20 @@ menu:
 
 # Customize
 customize:
-    logo:
+    logo: Alexander Liu
         width: 165
         height: 60
-        url: images/logo-header.png
+        url: images/mashiro.jpg
     theme_color: '#006bde'
     highlight: androidstudio
     sidebar: left # sidebar position, options: left, right
     thumbnail: true # enable posts thumbnail, options: true, false
-    favicon: # path to favicon
+    favicon: css/images/favicon.ico
     social_links: # for more icons, please see http://fontawesome.io/icons/#brand
         twitter: /
         facebook: /
         stack-overflow: /
-        github: https://github.com/ppoffice/hexo-theme-hueman
+        github: https://alexanderliu-creator.github.io/
         weibo: /
         rss: /
 
