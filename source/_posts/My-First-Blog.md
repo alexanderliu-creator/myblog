@@ -1,9 +1,12 @@
 ---
 title: My First Blog
 date: 2020-02-04 16:05:21
-tags: introduction
+tags: 
+    -Introduction
 ---
 Welcome to Alexander Liu's blog. Under the guidance of the tutorial on the website and with the help of my classmate Du Xinhao, i successfully found the blog and begin my journey.I hope i can really do something and write something on it.还请各位观众姥爷多加关照，对于git和github的使用还不熟练。下面想简述一下我在这个blog上可能会写的东西。
+
+<!--more-->
 
 ## 方面一:
 可能会在blog上发表一些小故事吧，像写日记一样写点东西

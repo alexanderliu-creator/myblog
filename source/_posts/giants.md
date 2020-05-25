@@ -1,12 +1,15 @@
 ---
 title: giants
 date: 2020-03-01 21:55:27
-tags: 资源福利！！！
+tags: 
+    -资源福利！！！
 ---
 
 # Today is a brief introduction of my friends and their links at the right side of my blog.
 
 ---
+
+<!--more-->
 
 ## 右边第四位：
 我直接给出了他制作的英语六级冲刺计划，有兴趣的同学可以关注一下，收藏他的blog网址。

@@ -1,12 +1,16 @@
 ---
 title: About Markdown
 date: 2020-02-08 19:25:41
-tags: Skills
+tags: 
+    -Skills
 ---
 
 # 今天是郑的生日哈哈哈哈哈，更新下我的blog主要关于markdown语法的用法做一个记录。
 
 ---
+
+<!--more-->
+
 # 关于标题：
 # 一级标题
 ## 二级标题
@@ -59,6 +63,8 @@ b = eval(input('Enter another number.'))
 ---
 
 The introduction's will be updated!
+
+
 
 
 

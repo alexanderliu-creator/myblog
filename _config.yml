@@ -5,10 +5,10 @@
 # Site
 title: Alexander Liu
 subtitle: 兔子姐姐的blog
-description: ''
+description: Don't just follow your path
 keywords: the life of Alex
 author: Alexander
-language: zh-CN
+language: zh-Hans
 timezone: ''
 
 # URL
@@ -93,7 +93,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
